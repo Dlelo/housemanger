@@ -1,0 +1,19 @@
+{
+  "name": "housemanager",
+  "version": "1.0.0",
+  "description": "Get house managers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dlelo/housemanger.git"
+  },
+  "author": "Donattah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dlelo/housemanger/issues"
+  },
+  "homepage": "https://github.com/Dlelo/housemanger#readme"
+}
